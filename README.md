@@ -1,4 +1,5 @@
 # Frases célebres de programadores
+hola trabajadores
 
 "Tienen ordenadores, y pueden tener otras armas de destrucción masiva" --Janet Reno
 
